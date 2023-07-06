@@ -68,5 +68,12 @@
          "description": "description 4",
          "category": "next"
       }
-   ]
+   ],
+   "profile": {
+      "name": "Meharb",
+      "email": "mehrabd20@gmail.com",
+      "transactions": 15,
+      "balance": 1000,
+      "products": 5
+   }
 }
