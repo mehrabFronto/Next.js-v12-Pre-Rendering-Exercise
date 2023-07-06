@@ -42,5 +42,31 @@
          "offPrice": 200,
          "discount": 13
       }
+   ],
+   "blogs": [
+      {
+         "id": 1,
+         "title": "What are hooks in React?",
+         "description": "description 1",
+         "category": "react"
+      },
+      {
+         "id": 2,
+         "title": "What is closure in javaScript?",
+         "description": "description 2",
+         "category": "javaScript"
+      },
+      {
+         "id": 3,
+         "title": "What does img tag do in HTML?",
+         "description": "description 3",
+         "category": "html"
+      },
+      {
+         "id": 4,
+         "title": "What is the diffrence betweeen pre-rendeing methods?",
+         "description": "description 4",
+         "category": "next"
+      }
    ]
 }
