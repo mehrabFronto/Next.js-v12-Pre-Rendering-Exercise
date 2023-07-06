@@ -6,7 +6,10 @@ export default function Home() {
       <div>
          <h1>Hello pre-rendering</h1>
          <Link href="/users">Go to users list page?</Link>
+         <br />
          <Link href="/posts">Go to posts list page?</Link>
+         <br />
+         <Link href="/products">Go to products list page?</Link>
       </div>
    );
 }
